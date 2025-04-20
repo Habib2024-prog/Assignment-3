@@ -1,31 +1,29 @@
--This project is a Java-based Remote Patient Monitoring System (RPMS) 
--designed using Object-Oriented Programming (OOP) principles.
--It includes modules for emergency alerts, chat and video consultation,
--notification services, and reminder functionalities.
+### This project
+
+##### is a Java-based Remote Patient Monitoring System (RPMS) 
+##### designed using Object-Oriented Programming (OOP) principles.
+##### It includes modules for emergency alerts, chat and video consultation,
+##### notification services, and reminder functionalities.
 
 ## Project Structure
 
-chatAndVideoConsultation
-     ChatServerPack
-     ClientSide
-     VideoConsultation
-EmergencyAlertSystem
-     Emergency
-     NotificationS
-     PanicB
-    Threshold
-ExceptionHandling
-NotificationandReminder
-    date
-    Email
-    Notifi
-    RemiderService
-    SMS
-RPMS.java
-
-
-
----
+##### ├── chatAndVideoConsultation
+##### │   ├── ChatServerPack
+##### │   ├── ClientSide
+##### │   └── VideoConsultation
+##### ├── EmergencyAlertSystem
+##### │   ├── Emergency
+##### │   ├── NotificationS
+##### │   ├── PanicB
+##### │   └── Threshold
+##### ├── ExceptionHandling
+##### ├── NotificationandReminder
+##### │   ├── date
+##### │   ├── Email
+##### │   ├── Notifi
+##### │   ├── RemiderService
+##### │   └── SMS
+##### ├── RPMS.java
 
 ##  How to Run This Project in VS Code
 
@@ -42,7 +40,7 @@ RPMS.java
 1. **Open Folder Assignment3**  
    Launch VS Code and open the project folder (`Assignment3`).
 2. **Open All folder**
-   Open All folders of Project in its inside is Classes. 
+   ##### Open All folders of Project in its inside is Classes. 
 
 3. **Open `RPMS.java`**  
    Navigate to `RPMS.java` in the Explorer and open the file.
