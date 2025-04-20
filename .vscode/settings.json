@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Habibullah Khaliqyar\\Downloads\\javax.mail-1.6.2.jar"
+    ]
+}
