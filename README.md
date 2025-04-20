@@ -5,23 +5,23 @@
 
 ## Project Structure
 
-├── chatAndVideoConsultation
-│   ├── ChatServerPack
-│   ├── ClientSide
-│   └── VideoConsultation
-├── EmergencyAlertSystem
-│   ├── Emergency
-│   ├── NotificationS
-│   ├── PanicB
-│   └── Threshold
-├── ExceptionHandling
-├── NotificationandReminder
-│   ├── date
-│   ├── Email
-│   ├── Notifi
-│   ├── RemiderService
-│   └── SMS
-├── RPMS.java
+chatAndVideoConsultation
+     ChatServerPack
+     ClientSide
+     VideoConsultation
+EmergencyAlertSystem
+     Emergency
+     NotificationS
+     PanicB
+    Threshold
+ExceptionHandling
+NotificationandReminder
+    date
+    Email
+    Notifi
+    RemiderService
+    SMS
+RPMS.java
 
 
 
